@@ -1,0 +1,13 @@
+# Ignore compiled Java class files and legacy scratch scripts
+*.class
+*.java
+opps
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
